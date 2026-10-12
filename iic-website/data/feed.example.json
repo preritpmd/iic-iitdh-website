@@ -1,0 +1,17 @@
+[
+  {
+    "id": "e1",
+    "type": "event",
+    "title": "Example event",
+    "at": "2026-12-01T10:00:00+05:30",
+    "until": "2026-12-02T18:00:00+05:30",
+    "detail": "One or two sentences about the event."
+  },
+  {
+    "id": "a1",
+    "type": "announcement",
+    "title": "Example announcement",
+    "at": "2026-11-20T12:00:00+05:30",
+    "detail": "type is 'event' or 'announcement'. 'until' is optional."
+  }
+]
